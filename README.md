@@ -72,8 +72,4 @@ Retrieval-Augmented Generation combines information retrieval with text generati
 5. Ask questions related to the uploaded document.
 6. Compare the RAG and non-RAG responses.
 
-## Author
-B.Tech Student Project
 
-**Practical No.:** 06  
-**Subject:** Retrieval-Augmented Generation using Pre-trained LLM
